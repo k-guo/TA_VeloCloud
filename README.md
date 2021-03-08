@@ -19,10 +19,14 @@ Although I could have merged the python3 and token3 branches together into a sin
 Dwayne Sinclair / VMware 
 
 # Change Log
+<<<<<<< HEAD
 Tested ok with VCO Version 4.2
+=======
+Updated to Support Python3
+>>>>>>> b85fb525038f0907044ed80d2f8f58667d0d83c0
 
 # Version
-1.0.7
+1.0.8
 
 # With thanks to:
 Ken Guo, Andrew Lohman, Kevin Fletcher
@@ -32,11 +36,17 @@ When you download this folder from github, it may be suffixed by the github bran
 
 # Dependencies
 -	Splunk Enterprise 8.0+
--	Python 2.7
+-	Python 3.x
 -	VeloCloud Orchestrator enterprise username and password credentials
 -	Enterprise user account must be “Superuser”, “Standard Admin”, or “Customer Support” role.
-- Tested up to VCO V4.2
+-   Tested up to VCO V4.2
 
+<<<<<<< HEAD
+=======
+# In Progress
+Update to Support API Tokens - In Progress 1/26/2021. 
+
+>>>>>>> b85fb525038f0907044ed80d2f8f58667d0d83c0
 # New VeloCloud Orchestrator Endpoint Configuration
 
 Required values are:
